@@ -10,7 +10,7 @@ class Home extends StatelessWidget {
       appBar: AppBar(
         title: Text("BMI Calculator"),
         actions: [IconButton(onPressed: (){}, icon: Icon(Icons.settings))],
-      ),
+      ),k
       body: Column(
         children: [
 
